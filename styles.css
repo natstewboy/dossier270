@@ -8131,7 +8131,7 @@ textarea.form-control-lg {
 }
 
 li {
-    padding-left: 5px;
+    padding-left: 10px;
 }
 
 .bg-primary {
@@ -10896,6 +10896,11 @@ hr.divider-light {
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: #f4623a !important;
 }
+
+#para {
+  text-align: justify;
+}
+
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
