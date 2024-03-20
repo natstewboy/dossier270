@@ -10948,10 +10948,10 @@ header.masthead {
   background-position: center;
   background-repeat: repeat-y;
   background-attachment: scroll;
-  background-size: cover;
+  background-size: auto;
 }
 header.masthead h1, header.masthead .h1 {
-  font-size: 2.25rem;
+  font-size: 2.1rem;
 }
 @media (min-width: 992px) {
   header.masthead {
