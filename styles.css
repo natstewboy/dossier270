@@ -10899,6 +10899,7 @@ hr.divider-light {
 
 #para {
   text-align: left;
+  text-indent: 25px;
 }
 
 @media (min-width: 992px) {
