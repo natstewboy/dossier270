@@ -10902,6 +10902,12 @@ hr.divider-light {
   text-indent: 25px;
 }
 
+#hanging-indent {
+  text-align: left;
+  padding-left: 25px;
+  text-indent: -25px;
+}
+
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
